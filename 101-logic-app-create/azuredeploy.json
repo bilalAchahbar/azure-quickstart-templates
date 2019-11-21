@@ -58,7 +58,7 @@
               "inputs": {
                 "method": "GET",
                 "uri": "@parameters('testUri')"
-              },
+              }
             }
           },
           "outputs": {}
